@@ -1,0 +1,8 @@
+a2a-sdk[http-server]
+uvicorn
+httpx
+numpy
+boto3
+pyaudio
+aws-sdk-bedrock-runtime
+smithy-aws-core
